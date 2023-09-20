@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @melotarcisio
-- 👀 I'm interested in JavaScript, Python and SQL
-- 💞️ I'm currently working with Data Engineer and Mobile Developer
+- 👀 I'm interested in Typescript, JavaScript, Python and SQL
+- 💞️ I currently work as a software engineer
 - 📫 call me at my email: melotarcisio@hotmail.com
